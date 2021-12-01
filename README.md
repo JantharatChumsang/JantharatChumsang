@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+🧬&💻 : I'm currently studying at Princess Srisavangavadhana College of Medicine, Chulabhorn Royal Academy x Computer Engineering department, Faculty of Engineering, KMUTT
+
+What I'm interested in :
+- 🌍Big data/Data Analyst 
+- 📈Data visualization
+- 📝Business Intelligence
+- 💸Marketing Financial Management
+
 <!--
 **JantharatChumsang/JantharatChumsang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
