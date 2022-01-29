@@ -8,5 +8,5 @@ What I'm interested in :
 - 📝Business Intelligence
 - 💸Marketing Financial Management
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JantharatChumsang&layout=compact)](https://github.com/JantharatChumsang/github-readme-stats)
 
