@@ -14,6 +14,5 @@ What I'm interested in :
 
 ### Have a nice day 🌱
 
-https://user-images.githubusercontent.com/91057226/151674201-5021ebbe-a102-480f-b224-770762f284fa.mp4
  
 
