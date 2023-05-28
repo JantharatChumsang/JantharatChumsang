@@ -9,8 +9,7 @@ What I'm interested in :
 - 👩‍⚕️Healthcare manager
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JantharatChumsang&langs_count=8&theme=noctis_minimus&show_icons=true)](https://github.com/JantharatChumsang/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JantharatChumsang&theme=noctis_minimus&show_icons=true)
- ---
+
 
 ### Have a nice day 🌱
 
